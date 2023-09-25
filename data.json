@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "CarID": "Mer-4583",
+      "InStock": true,
+      "HP": 300,
+      "Price": "15000",
+      "Color": "#d16b6b",
+      "id": 1
+    },
+    {
+      "CarID": "Mer-4830",
+      "InStock": true,
+      "HP": "225",
+      "Price": "150000",
+      "Color": "#233c9f",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "CarID": "Mer-7942",
+      "InStock": false,
+      "HP": 320,
+      "Price": 125000,
+      "Color": "#ca23cd"
+    },
+    {
+      "id": 4,
+      "CarID": "Mer-1621",
+      "InStock": true,
+      "HP": 215,
+      "Price": 75000,
+      "Color": "#b90e0e"
+    }
+  ]
+}
